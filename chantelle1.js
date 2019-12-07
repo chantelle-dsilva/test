@@ -1,3 +1,5 @@
+console.log("chantelle1.js loaded");
+
 var canvas = document.getElementById('tmaCanvas');
 var img = path.tmaImage;
 
